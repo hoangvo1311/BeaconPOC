@@ -1,0 +1,6 @@
+@AaristaAcademyPOC_HostAddress = http://localhost:5035
+
+POST {{AaristaAcademyPOC_HostAddress}}/account/
+Accept: application/json
+
+###
